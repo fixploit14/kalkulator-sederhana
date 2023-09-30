@@ -1,3 +1,3 @@
 # Kalkulator Sederhana
 
-![img]()
+![img](https://github.com/fixploit14/kalkulator-sederhana/blob/main/kalkulator-sederhana.png)
